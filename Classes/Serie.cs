@@ -13,7 +13,7 @@ namespace DIO.Series
             public Serie(int id, Genero genero, string titulo, string descricao, int ano)
             {
                 this.Id = id;
-                this.Genero = genero
+                this.Genero = genero;
             }
 
 
